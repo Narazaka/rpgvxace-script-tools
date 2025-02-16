@@ -7,6 +7,10 @@ RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフ�
 
 ■開発時
 
+0. 同名スクリプトがある場合はスクリプトエディタ上でリネームして下さい
+
+  たとえば `Scene_Base` が二つある場合に片方を `Scene_Base_mod` とかにする。
+
 1. まず現在のスクリプト内容を普通のrubyファイルとして扱うようにします。
 
   * `Scripts_rvdata2_to_ruby_files.bat` を実行します。
