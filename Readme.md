@@ -8,7 +8,7 @@ RPGツクールVX Ace用のスクリプトをいい感じに編集するため�
 
 3. RPGツクールVX Aceの任意のプロジェクトの直下（`Game.rvproj2` があるフォルダ）に`_tools` フォルダをコピーします。
 
-4. `_tools/Readme.txt` の記載に従います。
+4. [_tools/Readme.txt](_tools/Readme.txt) の記載に従います。
 
 ## ライセンス
 

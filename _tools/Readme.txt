@@ -40,5 +40,5 @@ RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフ�
   * `install_rvhook.bat` を実行します。
 
 ■ソース
-rv2sa.exeは https://github.com/ctmk/rv2sa
+rv2sa.exeは https://github.com/ctmk/rv2sa/releases/tag/ver.2.3.0
 Game.exeは https://github.com/Narazaka/rvhook/releases/tag/v2.0.0
