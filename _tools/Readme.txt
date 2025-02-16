@@ -2,7 +2,7 @@
 
 RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフォルダ）にこの `_tools` フォルダをコピーします。
 
-本ツールは `rv2sa` を前提ツールとしています。
+本ツールは `rv2sa` を使用しています。
 注意事項や `_scripts/Scripts.conf.rb` の仕様については https://github.com/ctmk/rv2sa を参照して下さい。
 
 ■開発時
