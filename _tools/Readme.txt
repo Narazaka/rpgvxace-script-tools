@@ -24,6 +24,7 @@ RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフ�
 
 3. 開発します。
 
+  * Visual Studio Codeやその他便利なエディタでよしなにスクリプトを書いて下さい。
   * スクリプトファイルを追加・削除・リネームした場合は、 `_scripts/Scripts.conf.rb` を編集してください。
 
 ■リリース時
