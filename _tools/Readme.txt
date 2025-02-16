@@ -2,6 +2,8 @@
 
 RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフォルダ）にこの `_tools` フォルダをコピーします。
 
+本ツールは `rv2sa` を前提ツールとしています。注意事項や `_scripts/Scripts.conf.rb` の仕様については https://github.com/ctmk/rv2sa を参照して下さい。
+
 ■開発時
 
 1. まず現在のスクリプト内容を普通のrubyファイルとして扱うようにします。
@@ -21,7 +23,7 @@ RPGツクールVX Aceのプロジェクト直下（`Game.rvproj2` があるフ�
 
 3. 開発します。
 
-  * スクリプトファイルを追加・削除・リネームした場合は、 `_scripts/Scripts.conf.rb`をを編集してください。
+  * スクリプトファイルを追加・削除・リネームした場合は、 `_scripts/Scripts.conf.rb` を編集してください。
 
 ■リリース時
 
